@@ -24,3 +24,7 @@
     opacity: 1;
   }
 }
+
+#header .active{
+  color: rgb(255, 170, 0);
+}
